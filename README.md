@@ -3,7 +3,7 @@
 
 我是一个手艺人，写代码的，你应该也是吧。
 
-平时主要写后端，**Python**，**Django**，会写一些 **Vue + Element UI**。当然，**Go**，**MySQL**，**Redis**，**RabbitMQ**，**Docker**，**Elasticsearch**，**Kafka** 也经常使用，但总感觉不够深入，还在不断精进之中。
+平时主要写后端，**Python**，**Django**，**Go**，会写一些 **Vue + Element UI**。当然，**MySQL**，**Redis**，**RabbitMQ**，**Docker**，**Elasticsearch**，**Kafka** 也经常使用，但总感觉不够深入，还在不断精进之中。
 
 目前就职于奇安信科技集团，主要做内网安全平台，对资产管理，事件管理，漏洞管理等开发有一些心得。
 
