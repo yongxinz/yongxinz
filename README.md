@@ -14,7 +14,7 @@
 
 #### Project
 
-- **[后端技术博客](https://github.com/yongxinz/tech-blog)：** 我的个人技术博客，内容包括 Python、Django、Docker、Go、Redis、ElasticSearch、Kafka、Linux 等。
+- **[技术博客](https://github.com/yongxinz/tech-blog)：** 我的个人技术博客，内容包括 Python、Django、Docker、Go、Redis、ElasticSearch、Kafka、Linux 等。
 - **[Go 学习路线](https://github.com/yongxinz/gopher)：** Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源。
 - **[后端面试题汇总](https://github.com/yongxinz/backend-interview)：** 包括 Python、Redis、MySQL、Kafka、数据结构、算法、编程、网络等各种常考题。
 
