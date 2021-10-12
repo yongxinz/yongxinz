@@ -10,13 +10,13 @@
 #### Contact Me
 
 * 微信公众号：**AlwaysBeta**，我的主阵地，欢迎你来。
-* 知乎：[alwaysbeta](https://www.zhihu.com/people/yongxinz)，分享一些技术文章，搞笑段子，还有登山美图。
+* 知乎：[yongxinz](https://www.zhihu.com/people/yongxinz)，分享一些技术文章，搞笑段子，还有登山美图。
 
 #### Project
 
 - **[技术博客](https://github.com/yongxinz/tech-blog)：** 我的个人技术博客，内容包括 Python、Django、Docker、Go、Redis、ElasticSearch、Kafka、Linux 等。
 - **[Go 程序员](https://github.com/yongxinz/gopher)：** Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源。
-- **[后端面试题汇总](https://github.com/yongxinz/backend-interview)：** 包括 Python、Go、Redis、MySQL、Kafka、数据结构、算法、编程、网络等各种常考题。
+- **[面试题汇总](https://github.com/yongxinz/backend-interview)：** 包括 Python、Go、Redis、MySQL、Kafka、数据结构、算法、编程、网络等各种常考题。
 
 #### Github Stats
 
