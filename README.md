@@ -9,7 +9,7 @@
 
 #### Contact Me
 
-* 微信公众号：**AlwaysBeta**，我的主阵地，欢迎你来。
+* 微信公众号：**AlwaysBeta**，专注分享硬核后端开发技术。
 * 知乎：[yongxinz](https://www.zhihu.com/people/yongxinz)，分享一些技术文章，搞笑段子，还有登山美图。
 
 #### Project
