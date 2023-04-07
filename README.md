@@ -1,6 +1,3 @@
-
-# 求职中，微信：zhangyx6a
-
 ### Hi，你好吗？
 
 我是一个手艺人，写代码的，你应该也是吧。
@@ -28,8 +25,8 @@
 
 #### 公众号
 
-后台回复「**goebook**」领取 Go 编程经典书籍。欢迎关注，交流。
+后台回复「**goebook**」领取 Go 编程经典书籍，回复「**pdf**」领取上百本计算机经典书籍。欢迎关注，交流。
 
 <center class="half">
-    <img src="https://github.com/yongxinz/gopher/blob/main/alwaysbeta.JPG" width="300"/>
+    <img src="https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/WechatIMG29.jpeg" width="300"/>
 </center>
