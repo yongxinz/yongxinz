@@ -25,7 +25,7 @@
 
 #### 公众号
 
-后台回复「**goebook**」领取 Go 编程经典书籍，回复「**pdf**」领取上百本计算机经典书籍。欢迎关注，交流。
+**扫码**并后台回复「**goebook**」领取 Go 编程经典书籍，回复「**pdf**」领取上百本计算机经典书籍。欢迎关注，交流。
 
 <center class="half">
     <img src="https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/WechatIMG29.jpeg" width="300"/>
